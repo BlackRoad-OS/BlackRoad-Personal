@@ -1,37 +1,20 @@
-# BlackRoad-Me
+# BlackRoad-Personal
 
-Personal workspace for Alexa Amundson
+Alexa's personal workspace and experiments
 
-## Purpose
+## Organization
 
-This is my personal experimental space for:
-- Testing new ideas
-- Prototyping features
-- Learning and exploration
-- Personal notes and context
+**BlackRoad-OS** — Core platform — websites, integrations, coordination
 
-## Status
+## BlackRoad OS
 
-🚧 **Experimental** - Nothing here is production-ready
+BlackRoad OS is a distributed AI operating system — 20 domains, 668 repositories, 1,000 AI agents, and sovereign infrastructure running on Raspberry Pis and Hailo-8 accelerators. No cloud dependency.
 
-## Structure
+- [blackroad.io](https://blackroad.io) — Main platform
+- [docs.blackroad.io](https://docs.blackroad.io) — Documentation
+- [GitHub](https://github.com/BlackRoad-OS) — This organization
 
-- `experiments/` - Quick tests and prototypes
-- `notes/` - Personal documentation
-- `context/` - Session context files
-- `scratch/` - Throwaway code
-- `learning/` - Educational materials
 
-## License
 
-Personal use only. Not for distribution.
 
----
-
-**Proprietary Software — BlackRoad OS, Inc.**
-
-This software is proprietary to BlackRoad OS, Inc. Source code is publicly visible for transparency and collaboration. Commercial use, forking, and redistribution are prohibited without written authorization.
-
-**BlackRoad OS — Pave Tomorrow.**
-
-*Copyright 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
+*© 2024-2026 BlackRoad OS, Inc. All Rights Reserved.*
